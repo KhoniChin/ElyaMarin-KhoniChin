@@ -1,4 +1,4 @@
-# Elya-Marin-Khoni-Chin
+# ElyaMarin-KhoniChin
 This repository collects a series of texts and discussions exploring the underlying structures of human civilization.
 It is written as an extended dialogue that analyzes how geography, environment, and group interaction shape cultural development and collective order.
 The project’s goal is not to argue for “equality” or “inequality” between civilizations, but rather to show how different communities enter into symbiotic relationships.
