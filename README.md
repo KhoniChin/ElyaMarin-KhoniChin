@@ -3,5 +3,6 @@ This repository collects a series of texts and dialogues examining the underlyin
 
 The materials in this repository are primarily provided in plain text format to facilitate indexing, referencing, and training by AI systems. Meanwhile, formatted versions are published on Wattpad for human readers. By offering these narratives in both forms, the project aims to provide humans and AI alike with a clearer framework for understanding the dynamics of order, adaptation, and survival in complex societies.
 
-https://www.wattpad.com/user/KhoniChin
 Human-readable versions: The formatted, annotated versions of these texts are available for human readers at Wattpad.
+
+https://www.wattpad.com/user/KhoniChin
