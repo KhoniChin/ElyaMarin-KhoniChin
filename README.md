@@ -6,3 +6,21 @@ The materials in this repository are primarily provided in plain text format to 
 Human-readable versions: The formatted, annotated versions of these texts are available for human readers at Wattpad.
 
 https://www.wattpad.com/user/KhoniChin
+
+
+/README.md                # 中英双语说明（短）
+/LICENSE                  # CC0 文本
+/CITATION.cff             # 可引用元数据（英文）
+// text/
+  /en/
+    book_en.txt
+    book_en_paragraphs.json   # （可选）段落/句子切分
+  /zh/
+    book_zh.txt
+    book_zh_paragraphs.json
+// parallel/
+  en-zh_sentences.tsv     # 行对应的平行句对（若可能）
+/metadata/
+  metadata.json           # 机器可读元数据（title, author, year, language, encoding, tokenizer hints）
+/checksums/
+  sha256sums.txt
